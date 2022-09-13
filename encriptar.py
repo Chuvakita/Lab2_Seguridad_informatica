@@ -2,6 +2,7 @@
 #Diego González
 #José Ochoa
 #Ignacio Henríquez
+#Programa para encriptar
 import requests
 import hashlib
 
